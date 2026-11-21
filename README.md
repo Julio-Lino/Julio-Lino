@@ -1,62 +1,125 @@
 
 <div align="center">
 
-# Olá, eu sou Julio Lino! 👋
+# 👋 Olá, eu sou Julio Lino!
 
-### 🎓 Estudante de Ciência da Computação | SPTech
+### 💻 Computer Science Student | SPTech
 
-Desenvolvendo ideias, explorando tecnologias e transformando conhecimento em soluções.
+**Transformando ideias em código e conhecimento em soluções.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO)
+<br>
+
+<a href="https://github.com/GuilhermeSanchesm">
+  <img src="https://img.shields.io/badge/GitHub-GuilhermeSanchesm-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 🧑‍💻 Sobre mim
 
-- 🎓 Estudante de Ciência da Computação na São Paulo Tech School.
-- 💻 Interessado em desenvolvimento de software e tecnologia.
-- 🔐 Explorando o universo da Cibersegurança e Redes de Computadores.
-- 🚀 Desenvolvendo projetos acadêmicos e aplicações práticas.
-- 📚 Sempre buscando aprender algo novo e evoluir profissionalmente.
+Sou estudante de **Ciência da Computação na São Paulo Tech School (SPTech)**, interessado em tecnologia, desenvolvimento de software e infraestrutura.
 
-## 🛠️ Tecnologias e ferramentas
+Gosto de transformar ideias em projetos funcionais, explorar novas ferramentas e entender como a tecnologia pode solucionar problemas do mundo real.
 
-<div align="center">
+- 🎓 Ciência da Computação — SPTech
+- 💻 Desenvolvimento Web e Backend
+- 🔐 Interesse em Cibersegurança
+- 🌐 Interesse em Redes e Infraestrutura
+- 🚀 Desenvolvendo projetos acadêmicos e pessoais
+- 📚 Em constante aprendizado e evolução
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+---
 
+## ⚙️ Tecnologias e ferramentas
+
+### Linguagens
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,java" />
 </div>
 
-## 🚀 Projetos
+### Banco de dados e Backend
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=mysql,nodejs,express" />
+</div>
+
+### Ferramentas
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino" />
+</div>
+
+---
+
+## 🚀 Projetos em destaque
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🎵 TrilhaSonora
-Plataforma que explora a conexão entre música, emoções e memórias, permitindo compartilhar experiências e histórias musicais.
+
+Uma plataforma que explora a conexão entre música, emoções e memórias.
+
+**Objetivo:** conectar experiências pessoais e sentimentos por meio da música.
+
+**Tecnologias:** HTML, CSS, JavaScript, Node.js e MySQL.
+
+</td>
+<td width="50%">
 
 ### 🍺 Zymos
-Sistema de monitoramento de temperatura durante a fermentação de cerveja, utilizando sensores e tecnologia para auxiliar no controle da produção.
 
-## 📊 GitHub
+Sistema de monitoramento de temperatura durante o processo de fermentação de cerveja.
+
+**Objetivo:** auxiliar no controle da produção por meio de sensores e monitoramento.
+
+**Tecnologias:** Arduino, sensores, banco de dados e desenvolvimento web.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true)
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeSanchesm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true)
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSanchesm&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=GuilhermeSanchesm&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
+## 🎯 Objetivos
+
+- Aprofundar conhecimentos em desenvolvimento de software.
+- Evoluir em Cibersegurança e Redes de Computadores.
+- Construir projetos cada vez mais completos.
+- Aprender novas tecnologias e boas práticas.
+- Transformar conhecimento acadêmico em experiência prática.
+
+---
+
 <div align="center">
 
-*"A tecnologia transforma ideias em possibilidades."*
+### 💡 "O aprendizado nunca termina quando o objetivo é evoluir."
+
+**Obrigado pela visita!** 🚀
+
+![Profile Views](https://komarev.com/ghpvc/?username=GuilhermeSanchesm&color=blueviolet&style=flat-square&label=VISUALIZAÇÕES)
 
 </div>
