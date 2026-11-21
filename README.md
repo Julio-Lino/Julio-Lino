@@ -10,7 +10,7 @@
 <br>
 
 <a href="https://github.com/Julio-Lino">
-  <img src="https://img.shields.io/badge/GitHub-GuilhermeSanchesm-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-Julio-Lino-181717?style=for-the-badge&logo=github" />
 </a>
 <a href="https://www.linkedin.com/">
   <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
