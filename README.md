@@ -1,125 +1,175 @@
 
 <div align="center">
 
-# 👋 Olá, eu sou Julio Lino!
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050b14,50:003b36,100:00ff9c&height=180&section=header&text=JULIO%20LINO&fontSize=45&fontColor=00ff9c&fontAlignY=38&desc=Computer%20Science%20%7C%20Cybersecurity%20%7C%20Development&descSize=13&descAlignY=60&animation=fadeIn" />
 
-### 💻 Computer Science Student | SPTech
+### `> Initializing developer profile..._`
 
-**Transformando ideias em código e conhecimento em soluções.**
+**Computer Science Student | SPTech**
+
+*Transformando conhecimento em código. Explorando tecnologia, segurança e inovação.*
 
 <br>
 
 <a href="https://github.com/Julio-Lino">
-  <img src="https://img.shields.io/badge/GitHub-Julio-Linostyle=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-Profile-0d1117?style=for-the-badge&logo=github&logoColor=00ff9c"/>
 </a>
-<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/julio-lino-58a7a2284/)">
-  <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/julio-lino-58a7a2284/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9c"/>
 </a>
+
+<img src="https://komarev.com/ghpvc/?username=Julio-Lino&color=00ff9c&style=flat-square&label=PROFILE+ACCESS" />
 
 </div>
 
 ---
 
-## 🧑‍💻 Sobre mim
+## `01 // ABOUT_ME`
 
-Sou estudante de **Ciência da Computação na São Paulo Tech School (SPTech)**, interessado em tecnologia, desenvolvimento de software e infraestrutura.
+```bash
+$ whoami
 
-Gosto de transformar ideias em projetos funcionais, explorar novas ferramentas e entender como a tecnologia pode solucionar problemas do mundo real.
+Julio Lino
+Computer Science Student @ SPTech
+```
+
+Sou estudante de **Ciência da Computação na São Paulo Tech School (SPTech)**, apaixonado por tecnologia, desenvolvimento de software e pelo funcionamento da infraestrutura digital.
+
+Tenho interesse especial em **Cibersegurança, Redes de Computadores e Desenvolvimento Backend**. Gosto de entender como os sistemas funcionam, explorar novas tecnologias e desenvolver soluções que conectam software, hardware e dados.
 
 - 🎓 Ciência da Computação — SPTech
+- 🔐 Interesse em Cybersecurity e Ethical Hacking
+- 🌐 Redes de Computadores e Infraestrutura
 - 💻 Desenvolvimento Web e Backend
-- 🔐 Interesse em Cibersegurança
-- 🌐 Interesse em Redes e Infraestrutura
-- 🚀 Desenvolvendo projetos acadêmicos e pessoais
-- 📚 Em constante aprendizado e evolução
+- 🗄️ Banco de Dados e APIs
+- 🚀 Projetos acadêmicos e desenvolvimento prático
 
 ---
 
-## ⚙️ Tecnologias e ferramentas
+## `02 // TECH_STACK`
 
-### Linguagens
+### 💻 Programming & Development
 
-<div align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,java" />
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,java,nodejs,express&theme=dark" />
+
 </div>
 
-### Banco de dados e Backend
+### 🗄️ Database & Hardware
 
-<div align="left">
-<img src="https://skillicons.dev/icons?i=mysql,nodejs,express" />
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,arduino&theme=dark" />
+
 </div>
 
-### Ferramentas
+### 🔐 Cybersecurity & Infrastructure
 
-<div align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino" />
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode&theme=dark" />
+
 </div>
 
 ---
 
-## 🚀 Projetos em destaque
+## `03 // AREAS_OF_INTEREST`
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%">
+<td align="center" width="33%">
+<br>
+<img src="https://img.shields.io/badge/CYBERSECURITY-003b36?style=for-the-badge&logo=hackthebox&logoColor=00ff9c"/>
+<br><br>
+Segurança da informação, análise de vulnerabilidades e proteção de sistemas.
+<br><br>
+</td>
+<td align="center" width="33%">
+<br>
+<img src="https://img.shields.io/badge/NETWORKS-003b36?style=for-the-badge&logo=cisco&logoColor=00ff9c"/>
+<br><br>
+Redes de computadores, protocolos, infraestrutura e comunicação.
+<br><br>
+</td>
+<td align="center" width="33%">
+<br>
+<img src="https://img.shields.io/badge/DEVELOPMENT-003b36?style=for-the-badge&logo=code&logoColor=00ff9c"/>
+<br><br>
+Desenvolvimento de software, aplicações web e integração de sistemas.
+<br><br>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## `04 // FEATURED_PROJECTS`
 
 ### 🎵 TrilhaSonora
 
-Uma plataforma que explora a conexão entre música, emoções e memórias.
+Uma plataforma que explora a relação entre música, emoções e memórias.
 
-**Objetivo:** conectar experiências pessoais e sentimentos por meio da música.
+- Experiências musicais e sentimentos.
+- Compartilhamento de histórias pessoais.
+- Desenvolvimento de aplicações web e integração com banco de dados.
 
-**Tecnologias:** HTML, CSS, JavaScript, Node.js e MySQL.
-
-</td>
-<td width="50%">
+`HTML` `CSS` `JavaScript` `Node.js` `MySQL`
 
 ### 🍺 Zymos
 
 Sistema de monitoramento de temperatura durante o processo de fermentação de cerveja.
 
-**Objetivo:** auxiliar no controle da produção por meio de sensores e monitoramento.
+- Monitoramento de variações de temperatura.
+- Integração entre Arduino e sensores.
+- Armazenamento e visualização de dados.
 
-**Tecnologias:** Arduino, sensores, banco de dados e desenvolvimento web.
-
-</td>
-</tr>
-</table>
+`Arduino` `C/C++` `Sensors` `MySQL` `Web Development`
 
 ---
 
-## 📊 GitHub Analytics
+## `05 // GITHUB_ANALYTICS`
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeSanchesm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Julio-Lino&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9"/>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSanchesm&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julio-Lino&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9"/>
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=GuilhermeSanchesm&theme=tokyonight&hide_border=true" />
+<img width="70%" src="https://streak-stats.demolab.com?user=Julio-Lino&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C"/>
 
 </div>
 
 ---
 
-## 🎯 Objetivos
+## `06 // CURRENT_MISSION`
 
-- Aprofundar conhecimentos em desenvolvimento de software.
-- Evoluir em Cibersegurança e Redes de Computadores.
-- Construir projetos cada vez mais completos.
-- Aprender novas tecnologias e boas práticas.
-- Transformar conhecimento acadêmico em experiência prática.
+```bash
+[+] Improving programming skills
+[+] Studying computer networks
+[+] Exploring cybersecurity
+[+] Developing practical projects
+[+] Learning something new every day
+
+[*] Status: Always learning...
+```
 
 ---
 
 <div align="center">
 
-### 💡 "O aprendizado nunca termina quando o objetivo é evoluir."
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,50:003b36,100:050b14&height=100&section=footer"/>
 
-**Obrigado pela visita!** 🚀
+### `> ACCESS GRANTED_`
 
-![Profile Views](https://komarev.com/ghpvc/?username=GuilhermeSanchesm&color=blueviolet&style=flat-square&label=VISUALIZAÇÕES)
+**"Understand the system. Protect the data. Build the future."**
+
+<sub>Developed with curiosity, code and caffeine. ☕</sub>
 
 </div>
